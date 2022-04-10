@@ -12,6 +12,7 @@
 ## Обучение
 Для обучения была использована технология ***transfer learning***. В качестве базовой модели взята **ResNet50**. Для получения лучшего результата использовался Баесовский алгоритм оптимизации с помощью которого были получены оптимальные гиперпараметры
 ## Метрики
+Наибольшая достигнутая точность на тестовом наборе данных ~80%
 ## Пример спектрограммы сгенерированной для обучения нейронной сети
 ![spec1](https://sun9-74.userapi.com/impf/qu6fFigr2Kbvun37TfyrNtXqAX1DCn-EffSfKw/OoS7F52nAY0.jpg?size=224x224&quality=95&sign=e42c2d19ebb3c33a30ac820d7e7de243&type=album)
 ![spec2](https://sun9-85.userapi.com/impf/tX5u8i1j-8K_MPBmmOPJN9pA3ts8bN852xTBLA/8sx7r5IMoaA.jpg?size=350x350&quality=95&sign=04a3a17c0226e3a5d87b434b40dac8ee&type=album)
